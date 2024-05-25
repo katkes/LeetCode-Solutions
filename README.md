@@ -5,8 +5,8 @@ Here is my [LeetCode profile] {https://leetcode.com/u/keshankathi/}!
 
 ## Progress
 
-- **May 23, 2024:** Solved Problem #1 - [Two Sum] {https://leetcode.com/problems/two-sum/description/} .
-- **May 24, 2024:** Solved Problem #141 - [Linked List Cycle] {https://leetcode.com/problems/linked-list-cycle/description/} .
+- **May 23, 2024:** Solved Problem #1 - [Two Sum](https://leetcode.com/problems/two-sum/description/) .
+- **May 24, 2024:** Solved Problem #141 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/ ) .
 
 
 
