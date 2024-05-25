@@ -11,7 +11,7 @@ public class Solution {
 	 * the max is beaten or not having added the extra positions at any i-th
 	 * position.
 	 * 
-	 * Time complexity: Omega(n) --> The list is iterated to be looped through
+	 * Time complexity: Theta(n) --> The list is iterated to be looped through
 	 * exactly twice. This makes it that the runtime at worst and best for the
 	 * iterations to be O(2n) which is O(n). As well, the variable initialization
 	 * only happens once which in total results in O(n+1) which is just O(n)
