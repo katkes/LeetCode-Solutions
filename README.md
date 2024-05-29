@@ -12,3 +12,8 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **May 27, 2024:** Solved Problem #1480 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/).
 - **May 28, 2024:** Solved Problem #1208 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description).
 
+
+## Favourite and Remarks
+
+- **Two Sum:** Age old question which embarassingly troubled me at first.
+- **Get Equal Substrings Within Budget:** This has to be my favourite one so far. Learning the sliding window algorithm was really cool, clever concept as a whole.
