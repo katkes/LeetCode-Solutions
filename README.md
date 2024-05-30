@@ -11,6 +11,7 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **May 26, 2024:** Solved Problem #217 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/).
 - **May 27, 2024:** Solved Problem #1480 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/).
 - **May 28, 2024:** Solved Problem #1208 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description).
+- **May 29, 2024:** Solved Problem #100 - [Same Tree](https://leetcode.com/problems/same-tree/description).
 
 
 ## Favourite and Remarks
