@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This is a track of doing a LeetCode question every day of summer 2024, dating from May 23rd onwards, as well as doing LeetCode questions as a whole. 
+This is a track of completing on average a LeetCode question every day of summer 2024, dating from May 23rd onwards, as well as doing LeetCode questions as a whole. 
 Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 
 ## Progress
@@ -12,6 +12,8 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **May 27, 2024:** Solved Problem #1480 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/).
 - **May 28, 2024:** Solved Problem #1208 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description).
 - **May 29, 2024:** Solved Problem #100 - [Same Tree](https://leetcode.com/problems/same-tree/description).
+- **May 30, 2024:** Solved Problem #1404 - [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/).
+- **June 1, 2024:** Solved Probelm #3110 - [Score of a String](https://leetcode.com/problems/score-of-a-string/description/).
 
 
 ## Favourite and Remarks
