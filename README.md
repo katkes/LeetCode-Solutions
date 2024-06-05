@@ -13,7 +13,12 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **May 28, 2024:** Solved Problem #1208 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description).
 - **May 29, 2024:** Solved Problem #100 - [Same Tree](https://leetcode.com/problems/same-tree/description).
 - **May 30, 2024:** Solved Problem #1404 - [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/).
-- **June 1, 2024:** Solved Probelm #3110 - [Score of a String](https://leetcode.com/problems/score-of-a-string/description/).
+- **June 1, 2024:** Solved Problem #3110 - [Score of a String](https://leetcode.com/problems/score-of-a-string/description/).
+- **June 2, 2024:** Solved Problem #344 - [Reverse String](https://leetcode.com/problems/reverse-string/description/).
+- **June 3, 2024:** Solved Problem #2807 - [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/).
+- **June 4, 2024:** Solved Problem #409 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/).
+  
+
 
 
 ## Favourite and Remarks
