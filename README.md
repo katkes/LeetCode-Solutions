@@ -17,9 +17,8 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **June 2, 2024:** Solved Problem #344 - [Reverse String](https://leetcode.com/problems/reverse-string/description/).
 - **June 3, 2024:** Solved Problem #2807 - [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/).
 - **June 4, 2024:** Solved Problem #409 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/).
+- **June 4, 2024:** Solved Problem #643 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/).
   
-
-
 
 ## Favourite and Remarks
 
