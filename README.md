@@ -21,10 +21,10 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **June 9, 2024:** Solved Problem #2 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/).
 
 ## Progress
-Days sinced started: 18 days
-Days with at least a question completed: 14 days
-% of days with at least a question completed: 77.8%
-Average questions done/day: 0.778 questions/day
+Days sinced started: 18 days </br>
+Days with at least a question completed: 14 days </br>
+% of days with at least a question completed: 77.8% </br>
+Average questions done per day: 0.778 questions/day </br>
 
 ## Favourite and Remarks
 - **Two Sum:** Age old question which embarassingly troubled me at first.
