@@ -17,10 +17,15 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **June 2, 2024:** Solved Problem #344 - [Reverse String](https://leetcode.com/problems/reverse-string/description/).
 - **June 3, 2024:** Solved Problem #2807 - [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/).
 - **June 4, 2024:** Solved Problem #409 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/).
-- **June 4, 2024:** Solved Problem #643 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/).
-  
+- **June 6, 2024:** Solved Problem #643 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/).
+- **June 9, 2024:** Solved Problem #2 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/).
+
+## Progress
+Days sinced started: 18 days
+Days with at least a question completed: 14 days
+% of days with at least a question completed: 77.8%
+Average questions done/day: 0.778 questions/day
 
 ## Favourite and Remarks
-
 - **Two Sum:** Age old question which embarassingly troubled me at first.
 - **Get Equal Substrings Within Budget:** This has to be my favourite one so far. Learning the sliding window algorithm was really cool, clever concept as a whole.
