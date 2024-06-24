@@ -19,12 +19,21 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **June 4, 2024:** Solved Problem #409 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/).
 - **June 6, 2024:** Solved Problem #643 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/).
 - **June 9, 2024:** Solved Problem #2 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/).
-
+- **June 10, 2024:** Solved Problem #1051 - [Height Checker](https://leetcode.com/problems/height-checker/description/).
+- **June 11, 2024:** Solved Problem #1122 - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/).
+- **June 12, 2024:** Solved Problem #75 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/).
+- **June 13, 2024:** Solved Problem #2037 - [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/).
+- **June 14, 2024:** Solved Problem #945 - [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/).
+- **June 19, 2024:** Solved Problem #9 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/description//).
+- **June 21, 2024:** Solved Problem #20 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/).
+- **June 22, 2024:** Solved Problem #2235 - [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/).
+- **June 23, 2024:** Solved Problem #2703 - [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/).
+  
 ## Progress
-Days sinced started: 18 days </br>
-Days with at least a question completed: 14 days </br>
-% of days with at least a question completed: 77.8% </br>
-Average questions done per day: 0.778 questions/day </br>
+Days sinced started: 31 days </br>
+Days with at least a question completed: 23 days </br>
+% of days with at least a question completed: 71.9% </br>
+Average questions done per day: 0.719 questions/day </br>
 
 ## Favourite and Remarks
 - **Two Sum:** Age old question which embarassingly troubled me at first.
