@@ -28,12 +28,15 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **June 21, 2024:** Solved Problem #20 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/).
 - **June 22, 2024:** Solved Problem #2235 - [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/).
 - **June 23, 2024:** Solved Problem #2703 - [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/).
+- **June 24, 2024:** Solved Problem #2441 - [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/).
+- **July 5, 2024:** Solved Problem #2582 - [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/).
+- **July 7, 2024:** Solved Problem #1518 - [Water Bottles](https://leetcode.com/problems/return-length-of-arguments-passed/description/).
   
 ## Progress
-Days sinced started: 31 days </br>
-Days with at least a question completed: 23 days </br>
-% of days with at least a question completed: 71.9% </br>
-Average questions done per day: 0.719 questions/day </br>
+Days sinced started: 45 days </br>
+Days with at least a question completed: 26 days </br>
+% of days with at least a question completed: 57.8% </br>
+Average questions done per day: 0.578 questions/day </br>
 
 ## Favourite and Remarks
 - **Two Sum:** Age old question which embarassingly troubled me at first.
