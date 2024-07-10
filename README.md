@@ -33,11 +33,12 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **July 7, 2024:** Solved Problem #1518 - [Water Bottles](https://leetcode.com/problems/return-length-of-arguments-passed/description/).
 - **July 7, 2024:** Solved Problem #1823 - [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/).
 - **July 9, 2024:** Solved Problem #1701 - [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/).
+- **July 9, 2024:** Solved Problem #1598 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/).
   
 ## Progress
 Days sinced started: 47 days </br>
-Total number of questions done: 28 </br>
-Average questions done per day: 0.579 questions/day </br>
+Total number of questions done: 29 </br>
+Average questions done per day: 0.617 questions/day </br>
 Days with at least a question completed: 27 days </br>
 % of days with at least a question completed: 57.4% </br>
 
