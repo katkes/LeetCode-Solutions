@@ -31,12 +31,16 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **June 24, 2024:** Solved Problem #2441 - [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/).
 - **July 5, 2024:** Solved Problem #2582 - [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/).
 - **July 7, 2024:** Solved Problem #1518 - [Water Bottles](https://leetcode.com/problems/return-length-of-arguments-passed/description/).
+- **July 7, 2024:** Solved Problem #1823 - [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/).
+- **July 9, 2024:** Solved Problem #1701 - [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/).
   
 ## Progress
-Days sinced started: 45 days </br>
-Days with at least a question completed: 26 days </br>
-% of days with at least a question completed: 57.8% </br>
-Average questions done per day: 0.578 questions/day </br>
+Days sinced started: 47 days </br>
+Total number of questions done: 28 </br>
+Average questions done per day: 0.579 questions/day </br>
+Days with at least a question completed: 27 days </br>
+% of days with at least a question completed: 57.4% </br>
+
 
 ## Favourite and Remarks
 - **Two Sum:** Age old question which embarassingly troubled me at first.
