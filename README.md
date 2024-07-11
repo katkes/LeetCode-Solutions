@@ -34,13 +34,16 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **July 7, 2024:** Solved Problem #1823 - [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/).
 - **July 9, 2024:** Solved Problem #1701 - [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/).
 - **July 9, 2024:** Solved Problem #1598 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/).
+- **July 11, 2024:** Solved Problem #1190 - [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/).
+- **July 11, 2024:** Solved Problem #2423 - [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/).
+- **July 11, 2024:** Solved Problem #2739 - [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/).
   
 ## Progress
-Days sinced started: 47 days </br>
-Total number of questions done: 29 </br>
-Average questions done per day: 0.617 questions/day </br>
-Days with at least a question completed: 27 days </br>
-% of days with at least a question completed: 57.4% </br>
+Days sinced started: 49 days </br>
+Total number of questions done: 32 </br>
+Average questions done per day: 0.653 questions/day </br>
+Days with at least a question completed: 28 days </br>
+% of days with at least a question completed: 57.1% </br>
 
 
 ## Favourite and Remarks
