@@ -37,13 +37,18 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **July 11, 2024:** Solved Problem #1190 - [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/).
 - **July 11, 2024:** Solved Problem #2423 - [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/).
 - **July 11, 2024:** Solved Problem #2739 - [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/).
-  
+- **July 12, 2024:** Solved Problem #1717 - [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/).
+- **July 13, 2024:** Solved Problem #2751 - [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/).
+- **July 14, 2024:** Solved Problem #726 - [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/).
+- **July 14, 2024:** Solved Problem #1550 - [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/).
+
+
 ## Progress
-Days sinced started: 49 days </br>
-Total number of questions done: 32 </br>
-Average questions done per day: 0.653 questions/day </br>
-Days with at least a question completed: 28 days </br>
-% of days with at least a question completed: 57.1% </br>
+Days sinced started: 52 days </br>
+Total number of questions done: 36 </br>
+Average questions done per day: 0.6923 questions/day </br>
+Days with at least a question completed: 31 days </br>
+% of days with at least a question completed: 59.6% </br>
 
 
 ## Favourite and Remarks
