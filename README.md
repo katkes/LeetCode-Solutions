@@ -41,16 +41,26 @@ Here is my [LeetCode profile](https://leetcode.com/u/keshankathi/)!
 - **July 13, 2024:** Solved Problem #2751 - [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/).
 - **July 14, 2024:** Solved Problem #726 - [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/).
 - **July 14, 2024:** Solved Problem #1550 - [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/).
-
+- **July 15, 2024:** Solved Problem #1550 - [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/).
+- **July 16, 2024:** Solved Problem #1550 - [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/).
+- **July 17, 2024:** Solved Problem #1550 - [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/).
+- **July 18, 2024:** Solved Problem #1550 - [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/).
+- **July 19, 2024:** Solved Problem #1550 - [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/).
+- **July 20, 2024:** Solved Problem #1550 - [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/).
+- **July 21, 2024:** Solved Problem #1550 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/).
+- **July 22, 2024:** Solved Problem #1550 - [Sort the People](https://leetcode.com/problems/sort-the-people/description/).
+- **July 23, 2024:** Solved Problem #1550 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/).
+- **July 24, 2024:** Solved Problem #1550 - [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/).
+- **July 25, 2024:** Solved Problem #1550 - [Sort an Array](https://leetcode.com/problems/sort-an-array/).
+- **Aug 1, 2024:** Solved Problem #1550 - [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/).
+- **Aug 2, 2024:** Solved Problem #1550 - [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/).
+- **Aug 2, 2024:** Solved Problem #1550 - [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/).
+- **Aug 3, 2024:** Solved Problem #1550 - [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/).
 
 ## Progress
-Days sinced started: 52 days </br>
-Total number of questions done: 36 </br>
-Average questions done per day: 0.6923 questions/day </br>
-Days with at least a question completed: 31 days </br>
-% of days with at least a question completed: 59.6% </br>
+Days sinced started: 72 days </br>
+Total number of questions done: 51 </br>
+Average questions done per day: 0.7083 questions/day </br>
+Days with at least a question completed: 45 days </br>
+% of days with at least a question completed: 62.5% </br>
 
-
-## Favourite and Remarks
-- **Two Sum:** Age old question which embarassingly troubled me at first.
-- **Get Equal Substrings Within Budget:** This has to be my favourite one so far. Learning the sliding window algorithm was really cool, clever concept as a whole.
