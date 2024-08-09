@@ -55,39 +55,29 @@ public class JavaSolution {
 		num /= 1000;
 		int fourthThree = num % 1000;
 
-		
-		System.out.println(firstThree);
-
-		System.out.println(secondThree);
-		 
-
-		System.out.println(thirdThree);
-		
-
-		System.out.println(fourthThree);
-		
-		
 		if (fourthThree != 0) {
 			word += convertToBillions(fourthThree);
 			notFirst = true;
 		}
-		
+
 		if (thirdThree != 0) {
-			if (notFirst) word += " ";
+			if (notFirst)
+				word += " ";
 			word += convertToMillions(thirdThree);
 			notFirst = true;
-		} 
+		}
 		if (secondThree != 0) {
-			if (notFirst) word += " ";
+			if (notFirst)
+				word += " ";
 			word += convertToThousands(secondThree);
 			notFirst = true;
 		}
 		if (firstThree != 0) {
-			if (notFirst) word += " ";
+			if (notFirst)
+				word += " ";
 			word += convertToHundreds(firstThree);
 		}
-		
-		
+
 		return word.trim();
 	}
 
